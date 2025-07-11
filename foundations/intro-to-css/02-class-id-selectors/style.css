@@ -1,4 +1,17 @@
-p {
+ .odd-number {
     background-color:rgba(255,0,0,0.5);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#num2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgba(0,255,0,0.5);
+    font-weight: bold;
 }
