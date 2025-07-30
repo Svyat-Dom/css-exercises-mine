@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 4px 8px;
 }
 
 input {
@@ -26,6 +27,7 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+  margin: 16px;
 }
 
 a, li {
